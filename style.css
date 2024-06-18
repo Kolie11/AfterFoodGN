@@ -114,7 +114,7 @@ nav .fa-bars {
 
 .accueil {
   text-align: center;
-  background: url("/bg.jpg") center / cover;
+  background: url("./bg.jpg") center / cover;
   width: 100%;
   height: 700px;
 }
